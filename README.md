@@ -1,6 +1,10 @@
 Amazon affiliate marketing bot
 
+
+
 A Bluesky bot that automatically finds and posts Amazon snack deals to your Bluesky account.
+Account: @goinupdeals.bsky.social
+
 Features
 
 Searches Amazon for discounted snack products
